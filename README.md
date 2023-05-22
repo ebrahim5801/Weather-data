@@ -1,2 +1,2 @@
-# Practice---Weather-data
+# Practice Weather data
 Practice data exploring on Weather dataset
